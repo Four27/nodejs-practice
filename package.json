@@ -1,5 +1,6 @@
 {
-    "name": "node-echo",
+    "name": "node-echo-yxl",
+    "version": "1.0.0",
     "main": "./lib/echo.js",
     "dependencies": {
         "argv": "0.0.2"
